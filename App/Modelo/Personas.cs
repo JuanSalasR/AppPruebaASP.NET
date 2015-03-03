@@ -15,6 +15,9 @@ namespace App.Modelo
   
   public Personas (String i, String n, String d, String t, String e){
     
+    My Vale que todo bien??
+    
+    
       this.id = i;
       this.nombre = n;
       this.direccion = d;
